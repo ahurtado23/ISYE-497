@@ -12,5 +12,5 @@ Key Learnings
 4.	Blockchain & Cryptocurrency Technology
 
 
-Languages used:  Java & JavaScript
-Editors & Environments used: Sublime, p5 & Processing
+Languages used:  Python, Java & JavaScript
+Editors & Environments used: Sublime, p5 , Anoconda & Processing
